@@ -1,0 +1,1 @@
+for f in ./*.pdf; do /mnt/c/Users/julian.lemmerich/xpdf-tools-linux-4.03/bin64/pdftotext -raw "$f"; done
